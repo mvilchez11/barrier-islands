@@ -2,7 +2,7 @@
 
 Welcome!
 
-This is part of the University of Florida's environmental journalism class project on Florida's barrier islands.
+This is part of the University of Florida's environmental journalism class project on Florida's barrier islands (2023).
 
 In this repository you will find GIS layers and spreadsheets used to create the interactive barrier islands map from WUFT's Living on the Edge series. 
 
